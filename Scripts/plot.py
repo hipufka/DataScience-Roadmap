@@ -26,7 +26,7 @@ def plot_time(d, x_label=None, title=None, out_file=None):
    
 #Nice alternative for Pandas
 def plot_pd(d):
-    ax = d[['orders']].plot.bar(rot=0,title='Orders by groups',color='blue')
+    ax = d[['orders']].plot.bar(rot=0,title='Orders by groups',color='blue',bins=[0,10,20,30,40,50,100,200,500])
     plt.show()
     
 #Correlations heatmap

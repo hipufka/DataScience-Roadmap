@@ -7,9 +7,9 @@ This repository is dedicated to my progress in DS & ML. It is created as a diges
 2 |TensorFlow Developer Professional Certificate (DeepLearning.AI)      |IN PROGRESS|https://www.coursera.org/professional-certificates/tensorflow-in-practice |
 3 |Practical project on Recommendation systems                 |TO BE DONE|
 4 |Docker (practical training)                 |TO BE DONE|https://docs.docker.com/get-started/overview/
-4 |OS library (python) study                       |TO BE DONE|
+4 |OS library (python) study                       |TO BE DONE|https://docs.python.org/3/library/os.html?highlight=os#module-os
 5 |Matplotlib library (python) revision & study           |TO BE DONE|
-6 |Random library (python) study                 |TO BE DONE|
+6 |Random library (python) study                 |TO BE DONE|https://docs.python.org/3/library/random.html?highlight=random#module-random
 7 |Practical Computer Vision project |TO BE DONE|
 8 |Natural Language Processing course|TO BE DONE|https://www.coursera.org/specializations/natural-language-processing
 9 |Practical NLP project                  |TO BE DONE|

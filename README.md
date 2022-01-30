@@ -1,5 +1,5 @@
 # DataScience-Roadmap
-This repository is dedicated to my progress in DS & ML. It is created as a digest of my work examples and for the sake of my motivation. Certificates on finishing of courses you may find <a href="https://github.com/hipufka/DataScience-Roadmap/tree/main/Certificates">here</a>.
+This repository is dedicated to my progress in DS & ML. It is created as a digest of my work examples, storage of samples and for the sake of my personal motivation. Certificates on finishing of courses you may find <a href="https://github.com/hipufka/DataScience-Roadmap/tree/main/Certificates">here</a>.
 
 № |Item                                   |Status      |URL    | Date of finish
 --|---------------------------------------|------------|-------|---------------

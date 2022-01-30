@@ -15,4 +15,5 @@ This repository is dedicated to my progress in DS & ML. It is created as a diges
 8 |Natural Language Processing course|TO BE DONE|https://www.coursera.org/specializations/natural-language-processing
 9 |Practical NLP project                  |TO BE DONE|
 10|Time series prediction course             |TO BE DONE|
+11|Practical Chrn Prediction project               |TO BE DONE|
 

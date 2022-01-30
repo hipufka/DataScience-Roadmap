@@ -1,8 +1,8 @@
 # DataScience-Roadmap
 This repository is dedicated to my progress in DS & ML. It is created for the sake of motivation and as a digest of my work examples.
 
-# |Topic                                  | Status 
---|---------------------------------------| ------------
+№ |Name                                   | Description 
+--|---------------------------------------|-------------
 1 |Basic neural networks Coursera course  |DONE
 2 |Convolutional neural networks          |DONE
 3 |Recurrent neural networks              |DONE

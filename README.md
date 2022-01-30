@@ -11,7 +11,7 @@ This repository is dedicated to my progress in DS & ML. It is created as a diges
 5 |Matplotlib library (python) revision & study           |TO BE DONE|
 6 |Random library (python) study                 |TO BE DONE|
 7 |Practical Computer Vision project |TO BE DONE|
-8 |Naturel Language Pricessing course|TO BE DONE|https://www.coursera.org/specializations/natural-language-processing
+8 |Natural Language Processing course|TO BE DONE|https://www.coursera.org/specializations/natural-language-processing
 9 |Practical NLP project                  |TO BE DONE|
 10|Time series prediction course             |TO BE DONE|
 

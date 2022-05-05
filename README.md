@@ -7,7 +7,7 @@ This repository is dedicated to my progress in DS & ML. It is created as a diges
 1 |Deep learning Specialization (by Andrew NG & Coursera)  |DONE|https://www.coursera.org/specializations/deep-learning |16.12.2021
 2 |TensorFlow Developer Professional Certificate (DeepLearning.AI)      |IN PROGRESS|https://www.coursera.org/professional-certificates/tensorflow-in-practice |
 3 |Practical project on classification using Tensorflow (data from Kaggle)|TO BE DONE||
-4 |Recommender systems course (accent on Latency models) |TO BE DONE|maybe https://www.coursera.org/learn/matrix-factorization?specialization=recommender-systems|
+4 |Recommender systems course (accent on Latency models) |TO BE DONE|maybe https://www.coursera.org/specializations/recommender-systems|
 5 |Practical project on Recommender systems                 |TO BE DONE|
 6 |Docker (practical training)                 |TO BE DONE|https://docs.docker.com/get-started/overview/
 7 |OS library (python) study                       |TO BE DONE|https://docs.python.org/3/library/os.html?highlight=os#module-os

@@ -14,7 +14,7 @@ This repository is dedicated to my progress in DS & ML. It is created as a diges
 8 |Matplotlib library (python) revision & study           |TO BE DONE|
 9 |Random library (python) study                 |TO BE DONE|https://docs.python.org/3/library/random.html?highlight=random#module-random
 10 |TensorFlow Developer Advanced Course & Professional Certificate (DeepLearning.AI)|TO BE DONE|https://www.coursera.org/specializations/tensorflow-advanced-techniques|
-11|Practical Computer Vision project |TO BE DONE|
+11|Practical Computer Vision project + state-of-the-art architectures(UNet, Resnet, GAN, Transformers)|TO BE DONE|
 12 |Natural Language Processing course|TO BE DONE|https://www.coursera.org/specializations/natural-language-processing
 13 |Practical NLP project                  |TO BE DONE|
 14 |Time series prediction course             |TO BE DONE|
